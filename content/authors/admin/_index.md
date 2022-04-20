@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haolun Wu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+  - name: McGill University
+    url: https://www.cs.mcgill.ca/
+  - name: MILA - Quebec AI Institue
+    url: https://mila.quebec/en/person/haolun-wu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Information Retrieval
+  - Recommender System
+  - FATE (Fairness, Accountability, Transparency, and Ethics)
+  - Causal Reasoning
+  - Web3
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: McGill University & MILA
+    year: 2021-2024
+  - course: M.Sc. in Computer Science
+    institution: McGill University & MILA
+    year: 2019-2021
+  - course: B.Eng. in Computer Science and Engineering
+    institution: Northeastern University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +68,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a phd student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
+My research interests include: Information Retrieval, Recommender System, FATE (Fairness, Accountability, Transparency, and Ethics), Causal Reasoning, and Web3. 
+I am committed to using advanced AI techniques to build a better information environment.
+The worst thing I can be is the same as everybody else.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV{{< /staticref >}} here.
