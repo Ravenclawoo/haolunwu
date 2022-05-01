@@ -14,15 +14,13 @@ authors:
 
 # Author notes (optional)
 
-[comment]: <> (author_notes:)
-
-[comment]: <> (- "Equal contribution")
-
-[comment]: <> (- "Equal contribution")
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-10-01T00:00:00Z"
 
-[comment]: <> (doi: "10.1145/3477495.3532007")
+doi: "10.1145/3477495.3532007"
 
 # Schedule page publish date (NOT publication's date).
 
@@ -39,7 +37,7 @@ publication_types: ["1"]
 publication: In *the 35th AAAI Conference on Artificial Intelligence*
 publication_short: In *AAAI 2021*
 
-abstract: Personalized recommender systems are increasingly important as more content and services become available and users struggle to identify what might interest them. Thanks to the ability for providing rich information, knowledge graphs (KGs) are being incorporated to enhance the recommendation performance and interpretability. To effectively make use of the knowledge graph, we propose a recommendation model in the hyperbolic space, which facilitates the learning of the hierarchical structure of knowledge graphs. Furthermore, a hyperbolic attention network is employed to determine the relative importances of neighboring entities of a certain item. In addition, we propose an adaptive and finegrained regularization mechanism to adaptively regularize items and their neighboring representations. Via a comparison using three real-world datasets with stateof-the-art methods, we show that the proposed model outperforms the best existing models by 2-16% in terms of NDCG@K on Top-K recommendation
+abstract: Personalized recommender systems are increasingly important as more content and services become available and users struggle to identify what might interest them. Thanks to the ability for providing rich information, knowledge graphs (KGs) are being incorporated to enhance the recommendation performance and interpretability. To effectively make use of the knowledge graph, we propose a recommendation model in the hyperbolic space, which facilitates the learning of the hierarchical structure of knowledge graphs. Furthermore, a hyperbolic attention network is employed to determine the relative importances of neighboring entities of a certain item. In addition, we propose an adaptive and finegrained regularization mechanism to adaptively regularize items and their neighboring representations. Via a comparison using three real-world datasets with stateof-the-art methods, we show that the proposed model outperforms the best existing models by 2-16% in terms of NDCG@K on Top-K recommendation.
 
 # Summary. An optional shortened abstract.
 summary: To model the hierarchical structure of KG, we map the entity and relation embeddings of the KG into the Poincare ball along with user and item embeddings. To the best of our knowledge, ours is the first work to consider knowledge-enhanced recommendation in the hyperbolic space.
