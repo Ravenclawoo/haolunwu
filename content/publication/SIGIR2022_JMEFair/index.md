@@ -32,33 +32,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: 
-
-[comment]: <> (Prior research on exposure fairness in the context of recommender systems has focused mostly on disparities in)
-
-[comment]: <> (the exposure of individual or groups of items to individual users of the system. The problem of how individual or groups)
-
-[comment]: <> (of items may be systemically under or over exposed to groups of users, or even all users, has received relatively less)
-
-[comment]: <> (attention. However, such systemic disparities in information exposure can result in observable social harms, such as)
-
-[comment]: <> (withholding economic opportunities from historically marginalized groups *allocative harm* or amplifying gendered and)
-
-[comment]: <> (racialized stereotypes *representational harm*. Previously, Diaz et al. developed the *expected exposure* metric---that)
-
-[comment]: <> (incorporates existing user browsing models that have previously been developed for information retrieval---to study)
-
-[comment]: <> (fairness of content exposure to individual users. We extend their proposed framework to formalize a family of exposure)
-
-[comment]: <> (fairness metrics that model the problem jointly from the perspective of both the consumers and producers. Specifically,)
-
-[comment]: <> (we consider group attributes for both types of stakeholders to identify and mitigate fairness concerns that go beyond)
-
-[comment]: <> (individual users and items towards more systemic biases in recommendation. Furthermore, we study and discuss the)
-
-[comment]: <> (relationships between the different exposure fairness dimensions proposed in this paper, as well as demonstrate how)
-
-[comment]: <> (stochastic ranking policies can be optimized towards said fairness goals. )
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
