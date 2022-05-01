@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- SIGIR2022_JMEFair
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
