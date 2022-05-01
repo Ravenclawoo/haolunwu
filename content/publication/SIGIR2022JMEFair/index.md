@@ -44,27 +44,41 @@ publication_types: ["1"]
 publication: In *the 45rd International ACM SIGIR Conference on Research and Development in Information Retrieval*
 publication_short: In *SIGIR 2022*
 
-abstract: Prior research on exposure fairness in the context of recommender systems has focused mostly on disparities in
-the exposure of individual or groups of items to individual users of the system. The problem of how individual or groups
-of items may be systemically under or over exposed to groups of users, or even all users, has received relatively less
-attention. However, such systemic disparities in information exposure can result in observable social harms, such as
-withholding economic opportunities from historically marginalized groups *allocative harm* or amplifying gendered and
-racialized stereotypes *representational harm*. Previously, Diaz et al. developed the *expected exposure* metric---that
-incorporates existing user browsing models that have previously been developed for information retrieval---to study
-fairness of content exposure to individual users. We extend their proposed framework to formalize a family of exposure
-fairness metrics that model the problem jointly from the perspective of both the consumers and producers. Specifically,
-we consider group attributes for both types of stakeholders to identify and mitigate fairness concerns that go beyond
-individual users and items towards more systemic biases in recommendation. Furthermore, we study and discuss the
-relationships between the different exposure fairness dimensions proposed in this paper, as well as demonstrate how
-stochastic ranking policies can be optimized towards said fairness goals.
+[comment]: <> (abstract: Prior research on exposure fairness in the context of recommender systems has focused mostly on disparities in)
+
+[comment]: <> (the exposure of individual or groups of items to individual users of the system. The problem of how individual or groups)
+
+[comment]: <> (of items may be systemically under or over exposed to groups of users, or even all users, has received relatively less)
+
+[comment]: <> (attention. However, such systemic disparities in information exposure can result in observable social harms, such as)
+
+[comment]: <> (withholding economic opportunities from historically marginalized groups *allocative harm* or amplifying gendered and)
+
+[comment]: <> (racialized stereotypes *representational harm*. Previously, Diaz et al. developed the *expected exposure* metric---that)
+
+[comment]: <> (incorporates existing user browsing models that have previously been developed for information retrieval---to study)
+
+[comment]: <> (fairness of content exposure to individual users. We extend their proposed framework to formalize a family of exposure)
+
+[comment]: <> (fairness metrics that model the problem jointly from the perspective of both the consumers and producers. Specifically,)
+
+[comment]: <> (we consider group attributes for both types of stakeholders to identify and mitigate fairness concerns that go beyond)
+
+[comment]: <> (individual users and items towards more systemic biases in recommendation. Furthermore, we study and discuss the)
+
+[comment]: <> (relationships between the different exposure fairness dimensions proposed in this paper, as well as demonstrate how)
+
+[comment]: <> (stochastic ranking policies can be optimized towards said fairness goals.)
 
 # Summary. An optional shortened abstract.
 
-summary: Prior works on fairness in recommendation mostly only mode the fairness of different stakeholders seperately.
-In our work, we first model the interactional behavoir between the consumer side and the producer side. We care not only
-whether the content is over/under exposed but also to whom and in what context.
+[comment]: <> (summary: Prior works on fairness in recommendation mostly only mode the fairness of different stakeholders seperately.)
 
-tags: [Fairness, Multisided, Recommendation, Metric Analysis]
+[comment]: <> (In our work, we first model the interactional behavoir between the consumer side and the producer side. We care not only)
+
+[comment]: <> (whether the content is over/under exposed but also to whom and in what context.)
+
+[comment]: <> (tags: [Fairness, Multisided, Recommendation, Metric Analysis])
 
 # Display this page in the Featured widget?
 
@@ -108,7 +122,7 @@ preview_only: false
 
 projects:
 
-- SIGIR2022_JMEFair
+- SIGIR2022JMEFair
 
 # Slides (optional).
 
