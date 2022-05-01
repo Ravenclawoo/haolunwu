@@ -15,12 +15,13 @@ authors:
 # Author notes (optional)
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
+[comment]: <> (- "Equal contribution")
+
+[comment]: <> (- "Equal contribution")
 
 date: "2021-10-01T00:00:00Z"
-
-doi: "10.1145/3477495.3532007"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 
