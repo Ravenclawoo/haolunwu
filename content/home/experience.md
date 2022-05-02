@@ -35,21 +35,14 @@ experience:
         * Conduct one project on efficiently training the implicit feedback data for recommendation through adaptively learning the data importance.
         * Conduct one project on efficiently utilizing auxiliary information in recommendation through self-supervised learning and contrastive alignment.
 
-[comment]: <> (  - title: Professor of Semiconductor Physics)
-
-[comment]: <> (    company: University X)
-
-[comment]: <> (    company_url: '')
-
-[comment]: <> (    company_logo: org-x)
-
-[comment]: <> (    location: California)
-
-[comment]: <> (    date_start: '2016-01-01')
-
-[comment]: <> (    date_end: '2020-12-31')
-
-[comment]: <> (    description: Taught electronic engineering and researched semiconductor physics.)
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
