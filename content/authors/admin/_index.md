@@ -74,9 +74,9 @@ email: "haolun.wu@mail.mcgill.ca; haolun.wu@mila.quebec"
 highlight_name: true
 ---
 
-I am a phd student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
-My research interests include: Information Retrieval, Recommender System, FATE (Fairness, Accountability, Transparency, and Ethics), Explainability, Causal Reasoning, etc.
-I am committed to using advanced AI techniques to build a better information environment.
+I am a Ph.D. student at McGill and MILA supervied by [Prof. Xue (Steve) Liu](https://mila.quebec/en/person/xue-liu/). 
+My research interests include: Information Retrieval, Recommender System, Fairness, Explainability, Causal Reasoning, etc.
+I am committed to using advanced AI techniques to benefit social goods and aid human decision-making.
 
 
-{{< icon name="download" pack="fas" >}} You can find my {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}CV{{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/HaolunWu_CV.pdf" "newtab" >}}here{{< /staticref >}}.
