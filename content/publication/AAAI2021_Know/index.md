@@ -42,7 +42,7 @@ summary: To model the hierarchical structure of KG, we map the entity and relati
 tags: [Knowledge-enhanced, Recommendation, Hyperbolic Space]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
