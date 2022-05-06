@@ -30,10 +30,19 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
-  view: citation
+  # view: citation
   columns: '2'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
 ---
 
 {{% callout note %}}
