@@ -43,12 +43,12 @@ design:
   #   5 = Showcase
   view: 2
 
-  image:
-    placement: 1
-    caption: "Photo by [Geo](https://github.com/gcushen/)"
-    focal_point: "Center"
-    preview_only: false
-    alt_text: An optional description of the image for screen readers.
+image:
+  placement: 1
+  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 
 
   # For Showcase view, flip alternate rows?
