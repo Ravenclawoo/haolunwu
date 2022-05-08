@@ -44,10 +44,10 @@ design:
   view: 2
 
 image:
-  placement: 1
+  placement: 2
   caption: "Photo by [Geo](https://github.com/gcushen/)"
   focal_point: "Center"
-  preview_only: false
+  preview_only: True
   alt_text: An optional description of the image for screen readers.
 
 
