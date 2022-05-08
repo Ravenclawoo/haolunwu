@@ -63,7 +63,12 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
+  preview_only: False
+  placement: 2
+  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  focal_point: "Center"
   preview_only: True
+  alt_text: An optional description of the image for screen readers.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
