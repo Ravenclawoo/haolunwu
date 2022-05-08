@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://SIGIR2022_JMEFair.com/' # Website URL
+title: Haolun Wu # Website name
+baseURL: 'https://haolunwu.ai/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -45,9 +45,11 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
+#  resampleFilter: lanczos
+  resampleFilter: Box
   quality: 75
-  anchor: smart
+#  anchor: smart
+  anchor: Right
 timeout: 600000
 taxonomies:
   tag: tags
