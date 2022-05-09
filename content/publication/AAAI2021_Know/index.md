@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.aaai.org/AAAI21Papers/AAAI-5365.MaC.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,8 +61,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: Center
   preview_only: false
 
 # Associated Projects (optional).
