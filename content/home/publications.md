@@ -1,15 +1,16 @@
 ---
+active: false
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
-headless: True
+headless: true
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Recent Publications
 subtitle: ''
 
 content:
@@ -25,7 +26,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -34,21 +35,15 @@ content:
 design:
   # Choose a view for the listings:
   # view: citation
-  columns: '1'
+  # columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 4
 
-image:
-  placement: 2
-  caption: "Photo by [Geo](https://github.com/gcushen/)"
-  focal_point: "Center"
-  preview_only: True
-  alt_text: An optional description of the image for screen readers.
 
 
   # For Showcase view, flip alternate rows?
